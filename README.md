@@ -1,7 +1,7 @@
 <h2 align="left">Hi there, I'm Amr 👋</h2>  
 <h3 align="center">Data | BI Analyst</h3>  
   
-- 🔭 I’m currently working on personal project 
+- I’m currently working on personal project 
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
